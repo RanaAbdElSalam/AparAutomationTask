@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-04T08:03:29 EET" name="Test Suite" finished-at="2023-04-04T08:03:58 EET" duration-ms="28846">
+    <groups>
+    </groups>
+    <test started-at="2023-04-04T08:03:29 EET" name="Test" finished-at="2023-04-04T08:03:58 EET" duration-ms="28846">
+      <class name="Tests.SubscriptionTest">
+        <test-method signature="validateSubscriptionData()[pri:0, instance:Tests.SubscriptionTest@43dac38f]" started-at="2023-04-04T08:03:29 EET" name="validateSubscriptionData" finished-at="2023-04-04T08:03:58 EET" duration-ms="28735" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSubscriptionData -->
+      </class> <!-- Tests.SubscriptionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Test Suite -->
+</testng-results>
