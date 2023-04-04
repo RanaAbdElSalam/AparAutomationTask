@@ -36,8 +36,6 @@ public class SubscriptionTest {
 	String thirdPackageType = valuesList[4];
 	String thirdPackageprice = valuesList[5];
 	String currency = valuesList[6];
-
-		//String title = registrationObject.createAccountMethod();
 		
     assertEquals(firstPackageType, "LITE");
     assertEquals(firstPackageprice, "5.4");
